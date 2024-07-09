@@ -9,7 +9,7 @@
 <p align="center">
 	𝗰+h fr𝗶𝗲𝗻𝗱ly ⁺˖ 𝘄𝗵is𝗽𝗲r to in𝘁 ⁺˖ m𝗼𝘀𝘁ly af𝗸 / o𝗳𝗳tab
 <p align="center">
-	𝗰𝗵𝗲ck re𝗻𝘁ries (cu𝗿𝗿𝗲ntly a 𝘄𝗶p)
+	𝗰𝗵𝗲ck re𝗻𝘁ry (cu𝗿𝗿𝗲ntly a 𝘄𝗶p)
 
 ---
 
