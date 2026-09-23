@@ -5,11 +5,7 @@
 ---
 
 <p align="center">
-	F𝗼𝗿 𝘁𝗵e r𝗲𝗰𝗼rd, I 𝗱o not 𝗽𝗹ay pjsk. I j𝘂𝘀𝘁 𝗹𝗶ke v𝗼𝗰𝗮loid.
-<p align="center">
-	𝗰+h fr𝗶𝗲𝗻𝗱ly ⁺˖ 𝘄𝗵is𝗽𝗲r to in𝘁 ⁺˖ m𝗼𝘀𝘁ly af𝗸 / o𝗳𝗳tab
-<p align="center">
-	𝗰𝗵𝗲ck re𝗻𝘁ry (cu𝗿𝗿𝗲ntly a 𝘄𝗶p)
+	wip
 
 ---
 
